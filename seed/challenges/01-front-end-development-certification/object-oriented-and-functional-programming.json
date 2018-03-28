@@ -15,10 +15,11 @@
   "challenges": [
     {
       "id": "cf1111c1c15feddfaeb1bdef",
-      "title": "Declare JavaScript Objects as Variables",
+      "title": "Deklarasi Objek JavaScript sebagai Variabel",
       "description": [
+        "Sebelum masuk ke Object Oriented Programming, silahkan buka lagi JavasScript Object",
         "Before we dive into Object Oriented Programming, let's revisit JavaScript objects.",
-        "Give your <code>motorBike</code> object a <code>wheels</code>, <code>engines</code> and <code>seats</code> attribute and set them to numbers."
+        "Berikan objek <code>motorBike</code> dengan atribut <code>wheels</code>, <code>engines</code> dan <code>seats</code> dan set ke number."
       ],
       "challengeSeed": [
         "var car = {",
@@ -54,17 +55,17 @@
     },
     {
       "id": "cf1111c1c15feddfaeb2bdef",
-      "title": "Construct JavaScript Objects with Functions",
+      "title": "Konstruksi Javascript Object dengan Function",
       "description": [
-        "We are also able to create objects using <code>constructor</code> functions.",
-        "A <code>constructor</code> function is given a capitalized name to make it clear that it is a <code>constructor</code>.",
-        "Here's an example of a <code>constructor</code> function:",
+        "Kita juga bisa membuat object dengan function <code>constructor</code>",
+        "Berikan nama function <code>constructor</code> dengan huruf kapital untuk menjelaskan kalau ini <code>constructor</code>.",
+        "Berikut contoh function <code>constructor</code>:",
         "<blockquote>var Car = function() {<br>&nbsp;&nbsp;this.wheels = 4;<br>&nbsp;&nbsp;this.engines = 1;<br>&nbsp;&nbsp;this.seats = 1;<br>};</blockquote>",
-        "In a <code>constructor</code> the <code>this</code> variable refers to the new object being created by the constructor. So when we write,",
+        "Didalam <code>constructor</code> variabel <code>this</code> mengacu pada objek baru yang dibuat oleh konstruktor. Jadi waktu kita tulis,",
         "<code>&nbsp;&nbsp;this.wheels = 4;</code>",
-        "inside of the <code>constructor</code> we are giving the new object it creates a property called <code>wheels</code> with a value of <code>4</code>.",
-        "You can think of a <code>constructor</code> as a description for the object it will create.",
-        "Have your <code>MotorBike</code> <code>constructor</code> describe an object with <code>wheels</code>, <code>engines</code> and <code>seats</code> properties and set them to numbers."
+        "Didalam <code>constructor</code> kita beri objek baru properti baru bernama <code>wheels</code> dengan isi <code>4</code>.",
+        "Kita bisa menggambarkan <code>constructor</code> sebagai deskripsi untuk objek yang akan dibuat",
+        "Pastikan deskripsi <code>MotorBike</code> <code>constructor</code> dengan properti <code>wheels</code>, <code>engines</code> dan <code>seats</code> dan set ke number."
       ],
       "challengeSeed": [
         "var Car = function() {",
