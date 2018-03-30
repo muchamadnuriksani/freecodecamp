@@ -31,36 +31,12 @@
     },
     {
       "id": "bad87fee1348bd9aedf0887a",
-      "descriptionPtBR": [
-        "Durante os próximos desafios, construiremos um aplicativo em HTML que se parecerá como este:",
-        "<a href=\"//i.imgur.com/jOc1JF1.png\" data-lightbox=\"img-enlarge\"><img class=\"img-responsive\" src=\"//i.imgur.com/jOc1JF1.png\" title=\"Clique para aumentar\" alt=\"Imagem do aplicativo CatPhotoApp finalizado\"></a>",
-        "O elemento <code>h2</code> que você criar gerará um elemento <code>h2</code> na página da web.",
-        "Este elemento indica ao navegador a forma de mostrar o texto que contém.",
-        "Os elementos <code>h2</code> são ligeiramente menores que os elementos <code>h1</code>. Há também os elementos <code>h3</code>, <code>h4</code>, <code>h5</code> e <code>h6</code>.",
-        "Adicione uma tag <code>h2</code> que diga \"CatPhotoApp\" para criar um segundo <code>elemento</code> HTML abaixo de seu elemento <code>h1</code> chamado \"Hello World\"."
-      ],
-      "namePtBR": "Cabeçalho com o Elemento h2",
-      "descriptionDe": [
-        "In den nächsten Challenges werden wir eine HTML5 App entwickeln die ungefähr so aussehen wird:",
-        "<a href=\"//i.imgur.com/jOc1JF1.png\" data-lightbox=\"img-enlarge\"><img class=\"img-responsive\" src=\"//i.imgur.com/jOc1JF1.png\" title=\"Klicke zum Vergrößern\" alt=\"Ein Screenshot von unserer beendeted Katzenfoto App\"></a>",
-        "Das eingetragene <code>h2</code> Element wird ein <code>h2</code> Element auf der Website erzeugen.",
-        "Dieses Element sagt dem Browser, wie die Struktur deiner Website aufgebaut ist. <code>h1</code> Elemente werden oft für Hauptüberschriften verwendet, während <code>h2</code> Elemente üblicherweise für Zwischenüberschriften verwendet werden. Es gibt auch <code>h3</code>, <code>h4</code>, <code>h5</code> und <code>h6</code> Elemente die verschiedene und neue Bereiche kennzeichnen.",
-        "Füge unter <code>h1</code> \"Hello World\" ein zweites HTML Element <code>h2</code> hinzu, in dem \"CatPhotoApp\" steht."
-      ],
-      "titleRU": "Заголовок с применением элемента h2",
-      "descriptionRU": [
-        "В результате прохождения нескольких следующих испытаний, мы построим HTML5 приложение, которое будет похоже на это:",
-        "<a href=\"//i.imgur.com/jOc1JF1.png\" data-lightbox=\"img-enlarge\"><img class=\"img-responsive\" src=\"//i.imgur.com/jOc1JF1.png\" title=\"Click to enlarge\" alt=\"A screen shot of our finished Cat Photo App\"></a>",
-        "Вводимый вами элемент <code>h2</code> создаст соответствующий элемент <code>h2</code> на web-странице.",
-        "Этот элемент сообщает браузеру о структуре вашего web-сайта. Элементы <code>h1</code> часто применяют в качестве главных заголовков, в то время как элементы <code>h2</code> обычно используют для обозначения позаголовков. Также существуют элементы <code>h3</code>, <code>h4</code>, <code>h5</code> и <code>h6</code> для обозначения отдельных секций.",
-        "Добавьте метку <code>h2</code> с текстом \"CatPhotoApp\" для создания второго HTML <code>элемента</code> под вашим элементом <code>h1</code> с текстом \"Hello World\"."
-      ],
       "title": "Menggunakan Tag Header dengan H2",
       "description": [
-        "Melanjutkan challenge berikutnya, kita akan membuat sebuah aplikasi HTML 5 yang terlihat seperti ini:",
+        "Melanjutkan tantangan berikutnya, kita akan membuat sebuah aplikasi HTML 5 yang terlihat seperti ini:",
         "<a href=\"//i.imgur.com/jOc1JF1.png\" data-lightbox=\"img-enlarge\"><img class=\"img-responsive\" src=\"//i.imgur.com/jOc1JF1.png\" title=\"Click to enlarge\" alt=\"A screen shot of our finished Cat Photo App\"></a>",
-        "Element <code>h2</code> yang kamu masukkan akan membuat sebuah element <code>h2</code> di website",
-        "Element ini mengisyaratkan browser struktur dari website kamu. Element <code>h1</code> jarang digunakan untuk Heading utama, ketika element <code>h2</code> biasanya digunakan untuk subheading. Begitu juga elemen <code>h3</code>, <code>h4</code>, <code>h5</code> dan <code>h6</code> untuk mengindikasikan perbedaan dan bagian baru.",
+        "Elemen <code>h2</code> yang kamu masukkan akan membuat sebuah elemen <code>h2</code> di website",
+        "Elemen ini mengisyaratkan browser struktur dari website kamu. Elemen <code>h1</code> jarang digunakan untuk Heading utama, ketika element <code>h2</code> biasanya digunakan untuk subheading. Begitu juga elemen <code>h3</code>, <code>h4</code>, <code>h5</code> dan <code>h6</code> untuk mengindikasikan perbedaan dan bagian baru.",
         "Tambahkan tag <code>h2</code> yang berisi \"CatPhotoApp\" untuk membuat tag kedua HTML <code>element</code> dibawah elemen \"Hello World\" <code>h1</code>",
       ],
       "challengeSeed": [
@@ -110,7 +86,6 @@
       "title": "Menggunakan Elemen Paragraph",
       "description": [
         "Elemen <code>p</code> merupakan elemen pilihan untuk teks paragraf berukuran normal di situs web. P merupakan inisial untuk \"paragraph\".",
-        "<code>p</code> elements are the preferred element for normal-sized paragraph text on websites. P is short for \"paragraph\".",
         "Kamu bisa membuat elemen <code/p</code> seperti ini:",
         "<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>",
         "Buat elemen <code>p</code> dibawah elemen <code>h2</code>, dan berikan teks \"Hello Paragraph\"."
@@ -157,7 +132,7 @@
         "Вы можете начать комментарий с <code>&#60;!--</code> и закончить его <code>--&#62;</code>",
         "Раскомментируйте свои элементы <code>h1</code>, <code>h2</code> и <code>p</code>."
       ],
-      "title": "Menghilangkan comment HTML",
+      "title": "Menghilangkan komen HTML",
       "description": [
         "Komen adalah cara gimana kamu meninggalkan komentar didalam kode kamu tanpa merusak kode itu sendiri.",
         "Komen juga cara paling gampang untuk membuat kodemu tidak aktif tanpa harus menghapus keseluruhan.",
@@ -369,14 +344,11 @@
       "title": "Ganti Warna Teks",
       "description": [
         "Waktunya ganti warna beberapa teks kita nih.",
-        "Now let's change the color of some of our text.",
         "Kita bisa mengganti <code>style</code> dari elemen <code>h2</code>.",
-        "We can do this by changing the <code>style</code> of your <code>h2</code> element.",
-        "",
-        "The style that is responsible for the color of an element's text is the \"color\" style.",
-        "Here's how you would set your <code>h2</code> element's text color to blue:",
+        "Style yang digunakan untuk merubah warna elemen teks yaitu style \"color\".",
+        "Berikut bagaimana caranya merubah elemen teks <code>h2</code> menjadi biru:",
         "<code>&#60;h2 style=\"color: blue\"&#62;CatPhotoApp&#60;/h2&#62;</code>",
-        "Change your <code>h2</code> element's style so that its text color is red."
+        "Rubah style elemen <code>h2</code> agar menjadi berwarna merah."
       ],
       "challengeSeed": [
         "<h2>CatPhotoApp</h2>",
@@ -437,17 +409,17 @@
         "Обратите внимание, что важно наличие открывающих и закрывающих фигурных скобок (<code>{</code> и <code>}</code>) вокруг стиля каждого элемента. Также вам необходимо убедиться в том, что стиль элемента присвоен внутри элемента <code>style</code>. В завершении, убедитесь, что строка объявления каждого элемента стиля должна заканчиваться точкой с запятой.",
         "Удалите атрибут стиль вашего элемента <code>h2</code> и взамен создайте CSS-элемент <code>style</code>. Добавьте необходимый CSS, чтобы все элементы <code>h2</code> стали синими."
       ],
-      "title": "Use CSS Selectors to Style Elements",
+      "title": "Menggunakan CSS Selector untuk memberikan style ke elemen",
       "description": [
-        "With CSS, there are hundreds of CSS <code>properties</code> that you can use to change the way an element looks on your page.",
-        "When you entered <code>&#60;h2 style=\"color: red\"&#62;CatPhotoApp&#60;/h2&#62;</code>, you were giving that individual <code>h2</code> element an <code>inline style</code>.",
-        "That's one way to add style to an element, but a better way is by using <code>CSS</code>, which stands for <code>Cascading Style Sheets</code>.",
-        "At the top of your code, create a <code>style</code> element like this:",
+        "Dengan CSS, ada ratusan <code>properties</code> CSS yang bisa kamu gunakan untuk merubah style elemen yang tampil di halaman",
+        "Ketika kamu memasukkan <code>&#60;h2 style=\"color: red\"&#62;CatPhotoApp&#60;/h2&#62;</code>, kamu memberikan elemen <code>h2</code> sebuah style <code>inline style</code>.",
+        "Itu merupakan salah satu cara menambahkan style ke sebuah elemen, namun cara terbaik dengan menggunakan <code>CSS</code>, yang berarti <code>Cascading Style Sheet</code>",
+        "Di bagian atas baris kode, buat elemen <code>style</code> seperti ini:",
         "<blockquote>&#60;style&#62;<br>&#60;/style&#62;</blockquote>",
-        "Inside that style element, you can create a <code>CSS selector</code> for all <code>h2</code> elements. For example, if you wanted all <code>h2</code> elements to be red, your style element would look like this:",
+        "Didalam style elemen, kamu bisa membuat <code>CSS selector</code> untuk semua elemen <code>h2</code>. Contohnya, jika kamu mau merubah semua elemen <code>h2</code> menjadi merah, style elemenmu akan terlihat seperti ini:",
         "<blockquote>&#60;style&#62;<br>&nbsp;&nbsp;h2 {color: red;}<br>&#60;/style&#62;</blockquote>",
-        "Note that it's important to have both opening and closing curly braces (<code>{</code> and <code>}</code>) around each element's style. You also need to make sure your element's style is between the opening and closing style tags. Finally, be sure to add the semicolon to the end of each of your element's styles.",
-        "Delete your <code>h2</code> element's style attribute and instead create a CSS <code>style</code> element. Add the necessary CSS to turn all <code>h2</code> elements blue."
+        "Ingat, ini penting untuk menambahkan kurung kurawal pada pembuka dan penutup (<code>{</code> and <code>}</code>) pada tiap style elemen. Kamu juga harus memastikan style elemenmu ada diantara tag style pembuka dan penutup. Yang terakhir, pastikan untuk menambah titik koma pada akhir tiap style elemenmu",
+        "Hapus atribut style elemen <code>h2</code> dan ganti dengan membuat sebuah elemen CSS <code>style</code>. Tambahkan CSS yang diperlukan untuk mengganti semua elemen <code>h2</code> menjadi biru."
       ],
       "challengeSeed": [
         "<h2 style=\"color: red\">CatPhotoApp</h2>",
@@ -518,17 +490,17 @@
         "Внутри вашего элемента <code>style</code>, замените селектор <code>h2</code> на <code>.red-text</code> и измените значение цвета с <code>blue</code> на <code>red</code>.",
         "Присвойте вашему элементу <code>h2</code> атрибут <code>class</code> со значением <code>'red-text'</code>."
       ],
-      "title": "Use a CSS Class to Style an Element",
+      "title": "Menggunakan Class CSS untuk memberikan Style ke Elemen",
       "description": [
-        "Classes are reusable styles that can be added to HTML elements.",
-        "Here's an example CSS class declaration:",
+        "Class merupakan style yang bisa digunakan kembali yang dapat ditambahkan pada elemen HTML.",
+        "Berikut contoh deklarasi Class CSS:",
         "<blockquote>&#60;style&#62;<br>&nbsp;&nbsp;.blue-text {<br>&nbsp;&nbsp;&nbsp;&nbsp;color: blue;<br>&nbsp;&nbsp;}<br>&#60;/style&#62;</blockquote>",
-        "You can see that we've created a CSS class called <code>blue-text</code> within the <code>&#60;style&#62;</code> tag.",
-        "You can apply a class to an HTML element like this:",
+        "Bisa dilihat bahwa kita membuat Class CSS bernama <code>blue-text</code> didalam tag <code>&#60;style&#62;</code>.",
+        "Kamu bisa mengimplementasikan class ke elemen HTML seperti ini:",
         "<code>&#60;h2 class=\"blue-text\"&#62;CatPhotoApp&#60;/h2&#62;</code>",
-        "Note that in your CSS <code>style</code> element, classes should start with a period. In your HTML elements' class declarations, classes shouldn't start with a period.",
-        "Inside your <code>style</code> element, change the <code>h2</code> selector to <code>.red-text</code> and update the color's value from <code>blue</code> to <code>red</code>.",
-        "Give your <code>h2</code> element the <code>class</code> attribute with a value of <code>'red-text'</code>."
+        "Ingat dalam elemen CSS <code>style</code>, class sebaiknya dijalankan dengan nama id tertentu. Didalam elemen HTML-mu, deklarasi class tidak disarankan dimulai dengan nama id tertentu.",
+        "Didalam elemen <code>style</code>, rubah selector <code>h2</code> ke <code>.red-text</code> dan ganti nilai warna dari <code>blue</code> ke <code>red</code>.",
+        "Berikan elemen <code>h2</code> atribut <code>class<code> dengan nilai dari <code>'red-text'</code>."
       ],
       "challengeSeed": [
         "<style>",
@@ -593,14 +565,14 @@
         "<code>&#60;h2 class=\"blue-text\"&#62;CatPhotoApp&#60;/h2&#62;</code>",
         "Примените класс <code>red-text</code> к вашим элементам <code>h2</code> и <code>p</code>."
       ],
-      "title": "Style Multiple Elements with a CSS Class",
+      "title": "Memberikan Style ke beberapa elemen dengan Class CSS",
       "description": [
-        "Remember that you can attach classes to HTML elements by using <code>class=\"your-class-here\"</code> within the relevant element's opening tag.",
-        "Remember that CSS class selectors require a period at the beginning like this:",
+        "Ingat kalau kamu bisa menambahkan class ke elemen HTML dengan menggunakan <code>class=\"your-class-here\"</code> didalam tag pembuka elemen yang relevan.",
+        "Dan juga class selector CSS membutuhkan nama id di awal seperti ini:",
         "<blockquote>.blue-text {<br>&nbsp;&nbsp;color: blue;<br>}</blockquote>",
-        "But also remember that class declarations don't use a period, like this:",
+        "Tapi juga harus diingat bahwa deklarasi class jangan menggunakan nama id, seperti ini:",
         "<code>&#60;h2 class=\"blue-text\"&#62;CatPhotoApp&#60;/h2&#62;</code>",
-        "Apply the <code>red-text</code> class to your <code>h2</code> and <code>p</code> elements."
+        "Implementasikan class <code>red-text</code> ke elemen <code>h2</code> dan <code>p</code>."
       ],
       "challengeSeed": [
         "<style>",
@@ -660,14 +632,14 @@
         "<strong>Внимание</strong><br>По причине разницы в реализации браузеров, вам может понадобиться установить 100% масштаб окна браузера для прохождения этого испытания.",
         "Также, пожалуйста, не добавляйте атрибут класс к вашему новому элементу <code>p</code>."
       ],
-      "title": "Change the Font Size of an Element",
+      "title": "Merubah Ukuran Font pada Elemen",
       "description": [
-        "Font size is controlled by the <code>font-size</code> CSS property, like this:",
+        "Ukuran Font dikendalikan oleh properti CSS <code>font-size</code>, seperti ini:",
         "<blockquote>h1 {<br>&nbsp;&nbsp;font-size: 30px;<br>}</blockquote>",
-        "Create a second <code>p</code> element with the following kitty ipsum text: <code>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</code>",
-        "Inside the same <code>&#60;style&#62;</code> tag that contains your <code>red-text</code> class, create an entry for <code>p</code> elements and set the <code>font-size</code> to 16 pixels (<code>16px</code>).",
-        "<strong>Note</strong><br>Due to browser implementation differences, you may need to be at 100% zoom to pass the tests on this challenge.",
-        "Also, please do not add a class attribute to your new <code>p</code> element."
+        "Buat elemen kedua <code>p</code> dengan mengikuti teks kitty ipsum: <code>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</code>.",
+        "Didalam tag yang sama <code>&#60;style&#62;</code> yang berisi class <code>red-text</code>, buat masukan untuk elemen <code>p</code> dan ganti <code>font-size</code> ke 16 pixel (<code>16px</code>).",
+        "<strong>Catatan</strong><br>Karena perbedaan implementasi pada browser, kamu mungkin butuh memperbesar ukuran layar ke 100% untuk mengetes keberhasilan pada tantangan ini.",
+        "Juga, tolong jangan tambah atribut class ke elemen baru <code>p</code>."
       ],
       "challengeSeed": [
         "<style>",
@@ -724,12 +696,12 @@
         "<blockquote>h2 {<br>&nbsp;&nbsp;font-family: Sans-serif;<br>}</blockquote>",
         "Присвойте шрифт <code>Monospace</code> всем вашим элементам <code>p</code>."
       ],
-      "title": "Set the Font Family of an Element",
+      "title": "Mengganti Font Family pada Elemen",
       "description": [
-        "You can set an element's font by using the <code>font-family</code> property.",
-        "For example, if you wanted to set your <code>h2</code> element's font to <code>Sans-serif</code>, you would use the following CSS:",
+        "Kamu bisa merubah font dari elemen dengan menggunakan properti <code>font-family</code>",
+        "Sebagai contoh, jika kamu ingin merubah font dari elemen <code>h2</code> ke <code>Sans-serif</code>, kamu akan menggunakan sintak CSS:",
         "<blockquote>h2 {<br>&nbsp;&nbsp;font-family: Sans-serif;<br>}</blockquote>",
-        "Make all of your <code>p</code> elements use the <code>Monospace</code> font."
+        "Buat semua elemen <code>p</code> menggunakan font <code>Monospace</code>."
       ],
       "challengeSeed": [
         "<style>",
@@ -788,14 +760,14 @@
         "Теперь вы можете установить шрифт <code>Lobster</code> в качестве значения семейства шрифтов для вашего <code>h2</code>.",
         "Примените свойство <code>font-family</code> со значением <code>Lobster</code> к вашему элементу <code>h2</code>."
       ],
-      "title": "Import a Google Font",
+      "title": "Menggunakan Font dari Google",
       "description": [
-        "Now, let's import and apply a Google font (note that if Google is blocked in your country, you will need to skip this challenge).",
-        "First, you'll need to make a <code>call</code> to Google to grab the <code>Lobster</code> font and load it into your HTML.",
-        "Copy the following code snippet and paste it into the top of your code editor:",
+        "Oke, sekarang impor dan gunakan font dari Google (catatan jika Google diblok dari negaramu, kamu mungkin akan melewatkan tantangan ini).",
+        "Pertama, kamu akan menggunakan <code>call</code> untuk mengambil font <code>Lobster</code> dan menggunakannya didalam HTML yang kamu buat",
+        "Salin kode ini dan tempelkan didalam kode editormu di bagian atas:",
         "<code>&#60;link href=\"https://fonts.googleapis.com/css?family=Lobster\" rel=\"stylesheet\" type=\"text/css\"&#62;</code>",
-        "Now you can set <code>Lobster</code> as a font-family value on your <code>h2</code> element.",
-        "Apply the <code>font-family</code> of <code>Lobster</code> to your <code>h2</code> element."
+        "Sekarang kamu bisa ganti <code>Lobster</code> seperti nilai font-family didalam elemen <code>h2</code>.",
+        "Implementasikan <code>font-family</code> dari <code>Lobster</code> kedalam <code>h2</code>."
       ],
       "challengeSeed": [
         "<style>",
@@ -859,13 +831,13 @@
         "<blockquote>p {<br>&nbsp;&nbsp;font-family: Helvetica, Sans-Serif;<br>}</blockquote>",
         "Теперь закомментируйте ваш запрос к Google Fonts, таким образом шрифт <code>Lobster</code> становится недоступен. Обратите внимание как происходит деградация до шрифта <code>Monospace</code>."
       ],
-      "title": "Specify How Fonts Should Degrade",
+      "title": "Menentukan Bagaimana Font Sebaiknya Bisa Digantikan",
       "description": [
-        "There are several default fonts that are available in all browsers. These include <code>Monospace</code>, <code>Serif</code> and <code>Sans-Serif</code>",
-        "When one font isn't available, you can tell the browser to \"degrade\" to another font.",
-        "For example, if you wanted an element to use the <code>Helvetica</code> font, but also degrade to the <code>Sans-Serif</code> font when <code>Helvetica</code> wasn't available, you could use this CSS style:",
+        "Ada beberapa font bawaan yang tersedia pada semua browser. Yaitu <code>Monospace</code>, <code>Serif</code> dan <code>Sans-Serif</code>",
+        "Ketika satu font tidak tersedia, kamu bisa memerintahkan browser untuk \"degrade\" ke font lain.",
+        "Sebagai contoh, jika kamu ingin sebuah elemen menggunakan font <code>Helvetica</code>, tapi juga punya cadangan akses ke font <code>Sans-Serif</code> disaat <code>Helvetica</code> tidak tersedia, kamu bisa menggunakan style CSS:",
         "<blockquote>p {<br>&nbsp;&nbsp;font-family: Helvetica, Sans-Serif;<br>}</blockquote>",
-        "Now comment out your call to Google Fonts, so that the <code>Lobster</code> font isn't available. Notice how it degrades to the <code>Monospace</code> font."
+        "Sekarang komen pada panggilan font Google, jadi font <code>Lobster</code> tidak tersedia. Tuliskan bagaimana font <code>Lobster</code> dirubah ke font <code>Monospace</code>."
       ],
       "challengeSeed": [
         "<link href=\"https://fonts.googleapis.com/css?family=Lobster\" rel=\"stylesheet\" type=\"text/css\">",
@@ -935,13 +907,13 @@
         "Попробуйте добавить изображение используя следующую ссылку:",
         "<code>/images/fcc-relaxing-cat.jpg</code>"
       ],
-      "title": "Add Images to your Website",
+      "title": "Menambahkan Gambar ke Websitemu",
       "description": [
-        "You can add images to your website by using the <code>img</code> element, and point to a specific image's URL using the <code>src</code> attribute.",
-        "An example of this would be:",
+        "Kamu bisa menambahkan gambar ke website dengan elemen <code>img</code>, dan berisi akses URL ke gambar tertentu dengan menggunakan atribut <code>src</code>",
+        "Contohnya seperti ini:",
         "<code>&#60img src=\"https://www.your-image-source.com/your-image.jpg\"&#62</code>",
-        "Note that in most cases, <code>img</code> elements are self-closing.",
-        "Try it with this image:",
+        "Ingat pada kebanyakan kasus, elemen <code>img</code> menutup sendiri",
+        "Coba ini pada gambar berikut:",
         "<code>/images/fcc-relaxing-cat.jpg</code>"
       ],
       "challengeSeed": [
@@ -1011,13 +983,13 @@
         "Создайте класс <code>smaller-image</code> и используйте его для изменения размера изображений до 100 пикселей в ширину.",
         "<strong>Внимание</strong><br>По причине разницы в реализации браузеров, вам может понадобиться установить 100% масштаб окна браузера для прохождения этого испытания."
       ],
-      "title": "Size your Images",
+      "title": "Memberikan Ukuran pada Gambarmu",
       "description": [
-        "CSS has a property called <code>width</code> that controls an element's width. Just like with fonts, we'll use <code>px</code> (pixels) to specify the image's width.",
-        "For example, if we wanted to create a CSS class called <code>larger-image</code> that gave HTML elements a width of 500 pixels, we'd use:",
+        "CSS mempunya properti yang disebut <code>width</code> yang menangani lebar elemen. Sama seperti font, kita akan menggunakan <code>px</code> (pixels) untuk menentukan lebar gambar.",
+        "Sebagai contoh, jika kita ingin membuat class CSS bernama <code>larger-image</code> yang memberikan lebar elemen sebesar 500 pixel, kita bisa menggunakan:",
         "<blockquote>&#60;style&#62;<br>&nbsp;&nbsp;.larger-image {<br>&nbsp;&nbsp;&nbsp;&nbsp;width: 500px;<br>&nbsp;&nbsp;}<br>&#60;/style&#62;</blockquote>",
-        "Create a class called <code>smaller-image</code> and use it to resize the image so that it's only 100 pixels wide.",
-        "<strong>Note</strong><br>Due to browser implementation differences, you may need to be at 100% zoom to pass the tests on this challenge."
+        "Buat class bernama <code>smaller-image</code> dan gunakan untuk mengganti ukuran lebar gambar hanya 100 pixel",
+        "<strong>Catatan</strong><br>Karena perbedaan implementasi pada browser, kamu mungkin butuh memperbesar ukuran layar ke 100% untuk mengetes keberhasilan pada tantangan ini."
       ],
       "challengeSeed": [
         "<link href=\"https://fonts.googleapis.com/css?family=Lobster\" rel=\"stylesheet\" type=\"text/css\">",
@@ -1093,13 +1065,13 @@
         "Помните, что вы можете может применить множество классов к одному элементу путём разделения их с помощью пробела внутри атрибута <code>class</code>. Например:",
         "<code>&lt;img class=\"class1 class2\"&gt;</code>"
       ],
-      "title": "Add Borders Around your Elements",
+      "title": "Menambahkan Bingkai disekitar Elemen",
       "description": [
-        "CSS borders have properties like <code>style</code>, <code>color</code> and <code>width</code>",
-        "For example, if we wanted to create a red, 5 pixel border around an HTML element, we could use this class:",
+        "Bingkai pada CSS mempunyai properti seperti <code>style</code>, <code>color</code> dan <code>width</code>",
+        "Sebagai contoh, jika kita ingin membuat bingkai dengan warna merah, nilai pixel 5 disekitar elemen HTML, kita bisa menggunakan class ini:",
         "<blockquote>&#60;style&#62;<br>&nbsp;&nbsp;.thin-red-border {<br>&nbsp;&nbsp;&nbsp;&nbsp;border-color: red;<br>&nbsp;&nbsp;&nbsp;&nbsp;border-width: 5px;<br>&nbsp;&nbsp;&nbsp;&nbsp;border-style: solid;<br>&nbsp;&nbsp;}<br>&#60;/style&#62;</blockquote>",
-        "Create a class called <code>thick-green-border</code> that puts a 10-pixel-wide green border with a style of <code>solid</code> around an HTML element, and apply that class to your cat photo.",
-        "Remember that you can apply multiple classes to an element by separating each class with a space within its <code>class</code> attribute. For example:",
+        "Buat class bernama <code>thick-green-border</code> yang memberikan lebar bingkai 10 pixel berwarna hijau dengan style <code>solid</code> disekitar elemen HTML, dan implementasikan class ke foto kucingmu.",
+        "Ingat kalau kamu bisa mengimplementasikan banyak class ke sebuah elemen dengan memisahkan tiap class dengan spasi didalam atribut <code>class</code>. Contohnya:",
         "<code>&lt;img class=\"class1 class2\"&gt;</code>"
       ],
       "challengeSeed": [
@@ -1169,11 +1141,11 @@
         "Вы можете указать значения <code>border-radius</code> в пикселях. Присвойте вашему фото кота свойство <code>border-radius</code> со значением <code>10px</code>.",
         "Внимание: это задание подразумевает наличие нескольких возможных решений. Например, вы можете добавить <code>border-radius</code> как к классу <code>.thick-green-border</code>, так и к классу <code>.smaller-image</code>."
       ],
-      "title": "Add Rounded Corners with a Border Radius",
+      "title": "Menambahkan Sudut Bulat dengan Border Radius",
       "description": [
-        "Your cat photo currently has sharp corners. We can round out those corners with a CSS property called <code>border-radius</code>.",
-        "You can specify a <code>border-radius</code> with pixels. Give your cat photo a <code>border-radius</code> of <code>10px</code>.",
-        "Note: this waypoint allows for multiple possible solutions. For example, you may add <code>border-radius</code> to either the <code>.thick-green-border</code> class or <code>.smaller-image</code> class."
+        "Foto kucingmu sekarang mempunyai sudut lancip, Kita bisa membuat sudutnya bulat dengan properti CSS bernama <code>border-radius</code>.",
+        "Kamu bisa menentukan <code>border-radius</code> dengan pixel, Berikan foto kucingmu <code>border-radius</code> dengan nilai <code>10px</code>",
+        "Catatan: cara ini memungkinkan untuk beberapa solusi. Sebagai contoh, kamu ingin menambahkan <code>border-radius</code> ke class <code>.thick-green-border</code> atau class <code>.smaller-image</code>."
       ],
       "challengeSeed": [
         "<link href=\"https://fonts.googleapis.com/css?family=Lobster\" rel=\"stylesheet\" type=\"text/css\">",
@@ -1239,10 +1211,10 @@
         "В дополнение к пикселям, вы также может использовать проценты для указания значения свойства <code>border-radius</code>.",
         "Присвойте вашему фото кота свойство <code>border-radius</code> со значением <code>50%</code>."
       ],
-      "title": "Make Circular Images with a Border Radius",
+      "title": "Membuat Gambar Bulat dengan Border Radius",
       "description": [
-        "In addition to pixels, you can also specify a <code>border-radius</code> using a percentage.",
-        "Give your cat photo a <code>border-radius</code> of <code>50%</code>."
+        "Selain pixel, kamu juga bisa menentukan <code>border-radius</code> dengan nilai persen.",
+        "Berikan foto kucing <code>border-radius</code> dengan nilai <code>50%</code>."
       ],
       "challengeSeed": [
         "<link href=\"https://fonts.googleapis.com/css?family=Lobster\" rel=\"stylesheet\" type=\"text/css\">",
@@ -1320,14 +1292,14 @@
         "<code>&#60;p&#62;Вот &#60;a href=\"http://freecodecamp.com\"&#62; ссылка на Free Code Camp&#60;/a&#62; для перехода на ресурс.&#60;/p&#62;</code>",
         "Создайте элемент <code>a</code>, который присоединяет <code>http://freecatphotoapp.com</code> и имеет значение \"cat photos\" в качестве <code>текста якоря</code>."
       ],
-      "title": "Link to External Pages with Anchor Elements",
+      "title": "Tautan ke Halaman Lain dengan Elemen Anchor",
       "description": [
-        "<code>a</code> elements, also known as <code>anchor</code> elements, are used to link to content outside of the current page.",
-        "Here's a diagram of an <code>a</code> element. In this case, the <code>a</code> element is used in the middle of a paragraph element, which means the link will appear in the middle of a sentence.",
+        "Elemen <code>a</code>, juga disebut elemen <code>anchor</code>, digunakan untuk menautkan konten diluar halaman.",
+        "Berikut diagram dari sebuah elemen <code>a</code>. Pada kasus ini, elemen <code>a</code> digunakan di tengah elemen paragraf, yang berarti tautan akan muncul di tengah-tengah kalimat.",
         "<a href=\"//i.imgur.com/hviuZwe.png\" data-lightbox=\"img-enlarge\"><img class=\"img-responsive\" title=\"Click to enlarge\" alt=\"a diagram of how anchor tags are composed with the same text as on the following line\" src=\"//i.imgur.com/hviuZwe.png\"></a>",
-        "Here's an example:",
+        "Contohnya seperti ini:",
         "<code>&#60;p&#62;Here's a &#60;a href=\"http://freecodecamp.com\"&#62; link to Free Code Camp&#60;/a&#62; for you to follow.&#60;/p&#62;</code>",
-        "Create an <code>a</code> element that links to <code>http://freecatphotoapp.com</code> and has \"cat photos\" as its <code>anchor text</code>."
+        "Buat sebuah elemen <code>a</code> yang memiliki tautan ke <code>http://freecatphotoapp.com</code> dan memiliki \"cat photos\" sebagai <code>anchor text</code>."
       ],
       "challengeSeed": [
         "<link href=\"https://fonts.googleapis.com/css?family=Lobster\" rel=\"stylesheet\" type=\"text/css\">",
